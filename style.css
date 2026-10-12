@@ -1,0 +1,152 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+body{
+    background-color: #201313;
+    text-align:left;
+    padding-left: 190px;
+    padding-right: 170px;
+}
+/* For the head part of the */
+.header{
+    color:#FAF9F9;
+    margin-top: 120px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: 300px;
+    
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.ptag{
+    color: #FFDF8B;
+    font-family: Arial, Helvetica, sans-serif;
+}
+hr{
+    margin-right: 90px;
+    color: #7B6E68;
+    margin-top: 2px;
+    margin-bottom: 25px;
+}
+ /* button place */
+  button {
+           background-color: #201313;
+           border: 1px solid;
+           width: 140px;
+           height: 40px;
+           font-size: 20px;
+           color: white;
+           border-radius: 20px;
+ }
+  .one{
+           background-color: #FFC726;
+           color:black ;
+           border: none;
+           margin-right: 10px;
+           text-decoration: none;
+}
+  .two{
+       margin-right: 10px;
+       width: 120px;
+       color: white;
+       text-decoration: none;
+}
+  .three{
+      margin-right: 10px;
+}
+  .four{
+      margin-right: 10px;
+}
+  .five{
+      color: white;
+      width: 700px;
+      font-size: 20px;
+      font-weight: 540;   
+      text-decoration: underline;
+      text-decoration-style: dashed;
+      color: white;
+}
+
+.all{
+    color: black;
+}
+.allo{
+  color: white;
+}
+a{
+    text-decoration: none;
+}
+a{
+    color: #FFDF8B;
+}
+  /* Content */
+h2{ 
+    color: #FAF9F9;
+    font-family: Arial, Helvetica, sans-serif;
+}
+p{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+small{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+ span{
+    color:  #FFDF8B;
+ }
+ .nav{
+    text-decoration: dotted;
+    color: white;
+    margin-left: 10px;
+    
+    
+ }
+ .hr2{
+    margin-right: 0px;    
+ }
+ .sign{
+    border-color: #FF0000;
+    border: 20px;
+    border-radius: 20px;
+    
+}
+
+ label{
+    color: #CCE6E4;
+ }
+ input{
+    text-decoration: overline;
+ }
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
